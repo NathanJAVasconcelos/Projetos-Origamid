@@ -9,9 +9,8 @@ Projetos realizados nos cursos da origamid
 Site: https://www.origamid.com/cursos/
 
 
+- Web Designer Completo (bikcraft)
 
-\- [x] Web Designer Completo (bikcraft)
+- CSS Flexbox (flexblog)
 
-\- [x] CSS Flexbox (flexblog)
-
-\- [x] CSS Grid Layout (wildbeast)
+- CSS Grid Layout (wildbeast)
